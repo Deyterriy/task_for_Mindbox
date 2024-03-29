@@ -1,2 +1,2 @@
 # task_for_Mindbox
-The test assignment for the interview in Mindbox. Library for calculating the area of a circle and a triangle
+В данном репозитории находится первая часть тестового задания для Mindbox: библиотека для расчета площади фигур и юнит тесты для проверки работоспособности функций.
